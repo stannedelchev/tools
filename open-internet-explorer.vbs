@@ -1,3 +1,3 @@
 Set objIE = CreateObject("InternetExplorer.Application")
-objIE.Navigate "example.com"
+objIE.Navigate "https://example.com"
 objIE.Visible = 1
